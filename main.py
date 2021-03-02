@@ -1,5 +1,7 @@
 def lastLetter(w):
 
-    return "cat"[2]
+    (0, len(w))
+    
+    return w[2]
 
 print(lastLetter("cat"))
