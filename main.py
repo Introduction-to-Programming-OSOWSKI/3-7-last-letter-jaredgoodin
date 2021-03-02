@@ -1,1 +1,5 @@
-#WRITE YOUR CODE IN THIS FILE
+def lastLetter(w):
+
+    return "cat"[2]
+
+print(lastLetter("cat"))
